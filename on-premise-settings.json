@@ -1,0 +1,34 @@
+{
+    "onPremise": {
+        "canUserDeleteAccount": true,
+        "canUserRegister": false,
+        "canUserSendInvite": true,
+        "showTwoFactorSetting": true,
+        "isSupportChatEnable": true,
+        "canUserChooseProfile": true,
+        "defaultAccountType": "ul",
+        "canUserGetSignature": true,
+        "canUserGetMydss": true,
+        "canUserAddCompany": true,
+        "documentSettings": {
+            "canUserCreateDocument": true,
+            "availableDocumentTypeList": [
+                "kedo",
+                "default"
+            ],
+            "availableRecipients": {
+                "fl": true,
+                "ul": true,
+                "employee": true
+            },
+            "availableSignTypes": {
+                "ues": true,
+                "qes": true
+            },
+            "canUserApproveDocument": true,
+            "canUserGetQesLink": true,
+            "canUserSignBehalfEmployee": true,
+            "ableToUseQesToken": true
+        }
+    }
+}
