@@ -1,5 +1,6 @@
 {
     "onPremise": {
+        "customAcceptances": [],
         "canUserDeleteAccount": true,
         "canUserRegister": false,
         "canUserSendInvite": true,
