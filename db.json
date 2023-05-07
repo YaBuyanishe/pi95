@@ -12,7 +12,7 @@
             "isSupportChatEnable": true,
             "canUserChooseProfile": true,
             "defaultAccountType": "ul",
-            "canUserGetSignature": false,
+            "canUserGetSignature": true,
             "canUserGetMydss": false,
             "canUserAddCompany": false,
             "documentSettings": {
@@ -27,7 +27,7 @@
              },
                 "availableSignTypes": {
                 "ues": true,
-                "qes": true
+                "qes": false
             },
             "canUserApproveDocument": false,
             "canUserGetQesLink": true,
