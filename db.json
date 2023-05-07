@@ -1,12 +1,13 @@
 {
         "onPremise": {
+            "customAcceptances": [],
             "approveRename": {
                 "title": "Сервер",
                 "successTitle": "Сервер",
                 "incomingTitle": "Сервер"
             },
             "canUserDeleteAccount": true,
-            "canUserRegister": false,
+            "canUserRegister": true,
             "canUserSendInvite": true,
             "showTwoFactorSetting": true,
             "isSupportChatEnable": true,
