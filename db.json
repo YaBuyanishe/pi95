@@ -18,9 +18,8 @@
             "documentSettings": {
                 "canUserCreateDocument": true,
                 "availableDocumentTypeList": [
-                    "kedo",
-                    "default"
-                ],
+                    "kedo"
+                    ],
             "availableRecipients": {
                 "fl": true,
                 "ul": true,
