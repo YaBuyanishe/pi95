@@ -1,38 +1,38 @@
 {
-    "onPremise": {
-        "approveRename": {
-            "title": "Подтвердить",
-            "successTitle": "Подтверждено",
-            "incomingTitle": "Требует подтверждения"
-        },
-        "canUserDeleteAccount":true,
-        "canUserRegister":true,
-        "canUserSendInvite":false,
-        "showTwoFactorSetting":true,
-        "isSupportChatEnable":false,
-        "canUserChooseProfile":true,
-        "defaultAccountType": "fl",
-        "canUserGetSignature":false,
-        "canUserGetMydss":false,
-        "canUserAddCompany":false,
-        "showOfferGetSignature": true,
-        "isSmsSignEnabled": false,
-        "documentSettings":{
-            "canUserCreateDocument":true,
-            "availableDocumentTypeList": ["default"],
+        "onPremise": {
+            "approveRename": {
+                "title": "Подтвердить",
+                "successTitle": "Подтверждено",
+                "incomingTitle": "Требует подтверждения"
+            },
+            "canUserDeleteAccount": true,
+            "canUserRegister": true,
+            "canUserSendInvite": false,
+            "showTwoFactorSetting": true,
+            "isSupportChatEnable": false,
+            "canUserChooseProfile": true,
+            "defaultAccountType": "fl",
+            "canUserGetSignature": false,
+            "canUserGetMydss": false,
+            "canUserAddCompany": false,
+            "documentSettings": {
+                "canUserCreateDocument": true,
+                "availableDocumentTypeList": [
+                    "default"
+                ],
             "availableRecipients": {
-                "fl":true,
-                "ul":true,
-                "employee":false
+                "fl": true,
+                "ul": true,
+                "employee": false
+             },
+                "availableSignTypes": {
+                "ues": true,
+                "qes": true
             },
-            "availableSignTypes":{
-                "ues":true,
-                "qes":false
-            },
-            "canUserApproveDocument":true,
-            "canUserGetQesLink":true,
-            "canUserSignBehalfEmployee":true,
-            "ableToUseQesToken":true
+            "canUserApproveDocument": true,
+            "canUserGetQesLink": true,
+            "canUserSignBehalfEmployee": true,
+            "ableToUseQesToken": true
         }
     }
 }
