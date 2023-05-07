@@ -16,7 +16,7 @@
             "canUserGetMydss": false,
             "canUserAddCompany": false,
             "documentSettings": {
-                "canUserCreateDocument": false,
+                "canUserCreateDocument": true,
                 "availableDocumentTypeList": [
                     "default"
                 ],
