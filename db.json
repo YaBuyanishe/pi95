@@ -29,7 +29,7 @@
                 "ues": true,
                 "qes": true
             },
-            "canUserApproveDocument": true,
+            "canUserApproveDocument": false,
             "canUserGetQesLink": true,
             "canUserSignBehalfEmployee": false,
             "ableToUseQesToken": true
