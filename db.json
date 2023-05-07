@@ -5,7 +5,7 @@
                 "successTitle": "С сервера",
                 "incomingTitle": "С сервера"
             },
-            "canUserDeleteAccount": false,
+            "canUserDeleteAccount": true,
             "canUserRegister": false,
             "canUserSendInvite": true,
             "showTwoFactorSetting": true,
