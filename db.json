@@ -6,8 +6,8 @@
                 "incomingTitle": "Требует подтверждения"
             },
             "canUserDeleteAccount": false,
-            "canUserRegister": true,
-            "canUserSendInvite": false,
+            "canUserRegister": false,
+            "canUserSendInvite": true,
             "showTwoFactorSetting": true,
             "isSupportChatEnable": false,
             "canUserChooseProfile": true,
