@@ -21,7 +21,7 @@
                     "kedo"
                     ],
             "availableRecipients": {
-                "fl": true,
+                "fl": false,
                 "ul": true,
                 "employee": false
              },
