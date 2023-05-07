@@ -1,9 +1,9 @@
 {
         "onPremise": {
             "approveRename": {
-                "title": "Подтвердить",
-                "successTitle": "Подтверждено",
-                "incomingTitle": "Требует подтверждения"
+                "title": "С сервера",
+                "successTitle": "С сервера",
+                "incomingTitle": "С сервера"
             },
             "canUserDeleteAccount": false,
             "canUserRegister": false,
