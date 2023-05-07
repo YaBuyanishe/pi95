@@ -11,7 +11,7 @@
             "showTwoFactorSetting": true,
             "isSupportChatEnable": false,
             "canUserChooseProfile": true,
-            "defaultAccountType": "fl",
+            "defaultAccountType": "ul",
             "canUserGetSignature": false,
             "canUserGetMydss": false,
             "canUserAddCompany": false,
