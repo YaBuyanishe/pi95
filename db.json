@@ -5,7 +5,7 @@
                 "successTitle": "Подтверждено",
                 "incomingTitle": "Требует подтверждения"
             },
-            "canUserDeleteAccount": true,
+            "canUserDeleteAccount": false,
             "canUserRegister": true,
             "canUserSendInvite": false,
             "showTwoFactorSetting": true,
