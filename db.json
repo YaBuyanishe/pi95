@@ -31,7 +31,7 @@
             },
             "canUserApproveDocument": true,
             "canUserGetQesLink": true,
-            "canUserSignBehalfEmployee": true,
+            "canUserSignBehalfEmployee": false,
             "ableToUseQesToken": true
         }
     }
