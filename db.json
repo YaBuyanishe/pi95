@@ -1,7 +1,7 @@
 {
         "onPremise": {
             "approveRename": {
-                "title": "Подтвердить",
+                "title": "Подтвердить!",
                 "successTitle": "Подтверждено",
                 "incomingTitle": "Требует подтверждения"
             },
