@@ -6,10 +6,10 @@
                 "incomingTitle": "С сервера"
             },
             "canUserDeleteAccount": true,
-            "canUserRegister": false,
+            "canUserRegister": true,
             "canUserSendInvite": true,
             "showTwoFactorSetting": true,
-            "isSupportChatEnable": false,
+            "isSupportChatEnable": true,
             "canUserChooseProfile": true,
             "defaultAccountType": "ul",
             "canUserGetSignature": false,
