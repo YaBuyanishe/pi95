@@ -22,7 +22,7 @@
             "isSupportChatEnable": false,
             "canUserChooseProfile": true,
             "defaultAccountType": "ul",
-            "canUserGetSignature": false,
+            "canUserGetSignature": true,
             "canUserGetMydss": false,
             "canUserAddCompany": false,
             "documentSettings": {
