@@ -2,11 +2,11 @@
         "onPremise": {
             "customAcceptances": [
                     {
-                        "title": "Без ссылки"
+                        "title": "Без ссылки",
                         "href": ""
                     },
                     {
-                        "title": "Битая ссылка"
+                        "title": "Битая ссылка",
                         "href": "https://gith"
                     }
             ],
