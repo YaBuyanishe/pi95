@@ -1,55 +1,38 @@
 {
         "onPremise": {
-            "customAcceptances": [
-                    {
-                        "title": "Кастоный_1",
-                        "href": "https://github.com/"
-                    },
-                    {
-                        "title": "Кастоный_2",
-                        "href": "https://github.com/"
-                    },
-                    {
-                        "title": "Кастоный_3",
-                        "href": "https://github.com/"
-                    },
-                    {
-                        "title": "Кастоный_4",
-                        "href": ""
-                    }
-            ],
+            "customAcceptances": [],
             "approveRename": {
-                "title": "Сервер",
-                "successTitle": "Сервер",
-                "incomingTitle": "Сервер"
+                "title": "Подтвердить",
+                "successTitle": "Подтверждено",
+                "incomingTitle": "Требует подтверждения"
             },
-            "canUserDeleteAccount": false,
+            "canUserDeleteAccount": true,
             "canUserRegister": true,
-            "canUserSendInvite": true,
+            "canUserSendInvite": false,
             "showTwoFactorSetting": true,
-            "isSupportChatEnable": true,
+            "isSupportChatEnable": false,
             "canUserChooseProfile": true,
-            "defaultAccountType": "ul",
-            "canUserGetSignature": true,
+            "defaultAccountType": "fl",
+            "canUserGetSignature": false,
             "canUserGetMydss": false,
             "canUserAddCompany": false,
             "documentSettings": {
                 "canUserCreateDocument": true,
                 "availableDocumentTypeList": [
-                    "kedo"
-                    ],
+                    "default"
+                ],
             "availableRecipients": {
-                "fl": false,
+                "fl": true,
                 "ul": true,
                 "employee": false
              },
                 "availableSignTypes": {
-                "ues": false,
-                "qes": false
+                "ues": true,
+                "qes": true
             },
             "canUserApproveDocument": true,
             "canUserGetQesLink": true,
-            "canUserSignBehalfEmployee": false,
+            "canUserSignBehalfEmployee": true,
             "ableToUseQesToken": true
         }
     }
