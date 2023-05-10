@@ -1,6 +1,23 @@
 {
         "onPremise": {
-            "customAcceptances": [],
+            "customAcceptances": [
+                    {
+                        "title": "Кастоный_1",
+                        "href": "https://github.com/"
+                    },
+                    {
+                        "title": "Кастоный_2",
+                        "href": "https://github.com/"
+                    },
+                    {
+                        "title": "Кастоный_3",
+                        "href": "https://github.com/"
+                    },
+                    {
+                        "title": "Кастоный_4",
+                        "href": ""
+                    }
+            ],
             "approveRename": {
                 "title": "Сервер",
                 "successTitle": "Сервер",
