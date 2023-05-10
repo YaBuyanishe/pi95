@@ -44,10 +44,10 @@
                 "employee": false
              },
                 "availableSignTypes": {
-                "ues": true,
+                "ues": false,
                 "qes": false
             },
-            "canUserApproveDocument": false,
+            "canUserApproveDocument": true,
             "canUserGetQesLink": true,
             "canUserSignBehalfEmployee": false,
             "ableToUseQesToken": true
