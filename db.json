@@ -7,7 +7,7 @@
                 "incomingTitle": "Сервер"
             },
             "canUserDeleteAccount": true,
-            "canUserRegister": true,
+            "canUserRegister": false,
             "canUserSendInvite": true,
             "showTwoFactorSetting": true,
             "isSupportChatEnable": true,
