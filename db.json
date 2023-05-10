@@ -20,9 +20,9 @@
             "canUserSendInvite": false,
             "showTwoFactorSetting": true,
             "isSupportChatEnable": false,
-            "canUserChooseProfile": false,
+            "canUserChooseProfile": true,
             "defaultAccountType": "ul",
-            "canUserGetSignature": true,
+            "canUserGetSignature": false,
             "canUserGetMydss": false,
             "canUserAddCompany": false,
             "documentSettings": {
