@@ -26,13 +26,13 @@
             "canUserGetMydss": false,
             "canUserAddCompany": false,
             "documentSettings": {
-                "canUserCreateDocument": false,
+                "canUserCreateDocument": true,
                 "availableDocumentTypeList": [
                     "default"
                 ],
             "availableRecipients": {
-                "fl": true,
-                "ul": true,
+                "fl": false,
+                "ul": false,
                 "employee": false
              },
                 "availableSignTypes": {
