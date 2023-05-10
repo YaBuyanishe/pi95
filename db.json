@@ -1,6 +1,15 @@
 {
         "onPremise": {
-            "customAcceptances": [],
+            "customAcceptances": [
+                    {
+                        "title": "Без ссылки"
+                        "href": ""
+                    },
+                    {
+                        "title": "Битая ссылка"
+                        "href": "https://gith"
+                    }
+            ],
             "approveRename": {
                 "title": "Подтвердить",
                 "successTitle": "Подтверждено",
